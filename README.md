@@ -1,6 +1,4 @@
-<p align="center">
-       alt="Riski Alfaizi - Data Analyst" />
-</p>
+
 
 <h1 align="center">Hey there! I'm Riski Alfaizi 👋</h1>
 
