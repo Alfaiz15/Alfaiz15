@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Alfaiz15/Alfaiz15/blob/main/img/riski.png" 
+  <img src="img/riski.png" 
        width="120" height="130" 
        style="border-radius:50%; border:6px solid #4e5158ff; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" 
        alt="Riski Alfaizi" />
@@ -76,8 +76,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaiz15&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
----
-
-<p align="center">
-  <strong>From Riski, with clean data & strong kopi hitam ☕</strong>
-</p>
