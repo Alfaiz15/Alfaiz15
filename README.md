@@ -1,16 +1,104 @@
 ## Hi there 👋
+Oke! Berikut saya buatkan versi full README kamu yang rapi, modern, dan siap pakai di GitHub. Semua bagian sudah tersusun: foto, greeting, typing SVG, Tech Stack rapi, Experience, Education, Projects, Stats, dan footer. Saya juga sudah memastikan Tech Stack 3 baris, 6 icon per baris, rapat di tengah.
 
-<!--
-**Alfaiz15/Alfaiz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Alfaiz15/Alfaiz15/blob/main/img/riski.png" 
+       width="120" height="130" 
+       style="border-radius:50%; border:6px solid #4e5158ff; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" 
+       alt="Riski Alfaizi" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hey there! I'm Riski Alfaizi 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=38BDF8&center=true&width=700&lines=Data+Analyst+%E2%80%A2+Ex-Grab+%26+Kredivo;SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;From+field+ops+%E2%86%92+Data-driven+impact)](https://git.io/typing-svg)
+
+<p align="center">
+  <strong>Data Analyst • Operations → Data Transition • Problem Solver</strong><br>
+  West Java / Jakarta • <a href="mailto:alfaizi1504@gmail.com">alfaizi1504@gmail.com</a> • +62 852-6827-9595
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/riski-alfaizi">LinkedIn</a> • 
+  <a href="https://github.com/Alfaiz15">GitHub</a>
+</p>
+
+<hr>
+
+### 💻 Tech Stack & Tools
+<p align="center">
+
+<!-- Row 1: Programming / Junior Programming -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52" height="52" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="52" title="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="52" title="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="52" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="52" height="52" title="VBA"/>
+
+<br>
+
+<!-- Row 2: Database & Analytics -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="52" height="52" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52" height="52" title="PostgreSQL"/>
+<img src="https://cdn.simpleicons.org/googleanalytics/4285F4" width="52" height="52" title="Google Analytics"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="52" height="52" title="Jupyter Notebook"/>
+<img src="https://skillicons.dev/icons?i=excel" width="52" height="52" title="Excel"/>
+<img src="https://skillicons.dev/icons?i=gsheets" width="52" height="52" title="Google Sheets"/>
+
+<br>
+
+<!-- Row 3: BI Tools, Project & Design -->
+<img src="https://skillicons.dev/icons?i=powerbi" width="52" height="52" title="Power BI"/>
+<img src="https://skillicons.dev/icons?i=tableau" width="52" height="52" title="Tableau"/>
+<img src="https://cdn.simpleicons.org/clickup/7B68EE" width="52" height="52" title="ClickUp"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="52" height="52" title="Canva"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="52" height="52" title="Photoshop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" width="52" height="52" title="PowerPoint"/>
+
+</p>
+
+---
+
+### 🏢 Experience
+- **Business Development Executive** → Kredivo Group `Jan–Jul 2025`  
+- **Acquisition & Operations Specialist** → Grab Indonesia `2021–2024`  
+- **Election Administrative Officer** → KPU Jambi `2018–2019`  
+
+### 🎓 Education
+- **Master of Public Administration** – Esa Unggul University, Jakarta `2021–2024` | GPA 3.67  
+- **Bachelor of Social Science – Public Administration** – IAKSS Jambi `2016–2020` | GPA 3.06  
+
+### 🚀 Featured Projects
+- **Price Prediction & Recommender System** → Python • SQL • ML  
+- **Pizza Sales Dashboard** → Excel • Power BI  
+- **IMDB Data Quality Framework** → Excel • Google Sheets  
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfaiz15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaiz15&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+<p align="center">
+  <strong>From Riski, with clean data & strong kopi hitam ☕</strong>
+</p>
+
+✅ Fitur utama versi ini:
+
+Foto profil rapi, border & shadow.
+
+Greeting dengan Typing SVG interaktif.
+
+Semua Tech Stack 3 baris, 6 icon per baris, rapat dan di-center.
+
+Experience, Education, Projects, dan GitHub stats sudah lengkap.
+
+Footer personal touch.
+
+
+Kalau mau, saya bisa buatkan versi dengan animasi hover pada icon supaya profil terlihat lebih interaktif dan modern di GitHub.
+
+Apakah mau saya buatkan versi itu juga?
