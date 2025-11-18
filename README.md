@@ -1,7 +1,4 @@
 <p align="center">
-  <img src=" https://drive.google.com/file/d/1aaMrqEukOGD1TPPHUcSqZ9sCiBY-lFnQ/view?usp=drivesdk"
-       width="120" height="130" 
-       style="border-radius:50%; border:6px solid #4e5158; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" 
        alt="Riski Alfaizi - Data Analyst" />
 </p>
 
@@ -34,10 +31,10 @@
 ### 💻 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,php,html,css,js,vba" height="40" alt="Python, PHP, HTML, CSS, JavaScript, VBA"/>
-  &emsp;
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,ga,jupyter,excel,gsheets" height="40" alt="MySQL, PostgreSQL, Google Analytics, Jupyter Notebook, Excel, Google Sheets"/>
-  &emsp;
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,clickup,canva,ps" height="40" alt="Power BI, Tableau, ClickUp, Canva, Photoshop"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,jupyter,excel,gsheets,ga" height="40" alt="SQL, MySQL, PostgreSQL, Jupyter Notebook, Excel, Google Sheets, Google Analytics"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,canva,clickup" height="40" alt="Power BI, Tableau, Canva, ClickUp"/>
 </p>
 
 <hr>
