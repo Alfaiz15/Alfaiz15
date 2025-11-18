@@ -1,6 +1,3 @@
-## Hi there 👋
-Oke! Berikut saya buatkan versi full README kamu yang rapi, modern, dan siap pakai di GitHub. Semua bagian sudah tersusun: foto, greeting, typing SVG, Tech Stack rapi, Experience, Education, Projects, Stats, dan footer. Saya juga sudah memastikan Tech Stack 3 baris, 6 icon per baris, rapat di tengah.
-
 <p align="center">
   <img src="https://github.com/Alfaiz15/Alfaiz15/blob/main/img/riski.png" 
        width="120" height="130" 
@@ -53,7 +50,6 @@ Oke! Berikut saya buatkan versi full README kamu yang rapi, modern, dan siap pak
 <img src="https://cdn.simpleicons.org/clickup/7B68EE" width="52" height="52" title="ClickUp"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="52" height="52" title="Canva"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="52" height="52" title="Photoshop"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" width="52" height="52" title="PowerPoint"/>
 
 </p>
 
@@ -85,20 +81,3 @@ Oke! Berikut saya buatkan versi full README kamu yang rapi, modern, dan siap pak
 <p align="center">
   <strong>From Riski, with clean data & strong kopi hitam ☕</strong>
 </p>
-
-✅ Fitur utama versi ini:
-
-Foto profil rapi, border & shadow.
-
-Greeting dengan Typing SVG interaktif.
-
-Semua Tech Stack 3 baris, 6 icon per baris, rapat dan di-center.
-
-Experience, Education, Projects, dan GitHub stats sudah lengkap.
-
-Footer personal touch.
-
-
-Kalau mau, saya bisa buatkan versi dengan animasi hover pada icon supaya profil terlihat lebih interaktif dan modern di GitHub.
-
-Apakah mau saya buatkan versi itu juga?
