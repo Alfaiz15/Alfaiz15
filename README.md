@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/riski.png" 
+  <img src=" https://drive.google.com/file/d/1aaMrqEukOGD1TPPHUcSqZ9sCiBY-lFnQ/view?usp=drivesdk"
        width="120" height="130" 
        style="border-radius:50%; border:6px solid #4e5158; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" 
        alt="Riski Alfaizi - Data Analyst" />
