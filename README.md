@@ -51,22 +51,25 @@
 
 <br>
 
-<!-- GAMBAR BARU YANG PASTI MUNCUL & SUPER KEREN -->
+<!-- GAMBAR FIX BARU - Stats + Langs (pakai original yang super stabil, tetep tokyonight) -->
 <p align="center">
-  <img src="https://metricard.vercel.app/api/card?username=Alfaiz15&template=cyberpunk&theme=tokyonight&height=340&width=1000" alt="Riski Alfaizi - Data Analyst Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfaiz15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaiz15&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="195" alt="Top Languages"/>
 </p>
 
+<!-- Streak Stats ALTERNATIF WORKING (Vercel deploy dari repo official, 100% muncul sekarang) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfaiz15&theme=tokyonight&hide_border=true&border_radius=12&ring=38BDF8&fire=FF2E63&currStreakLabel=FFFFFF&sideLabels=38BDF8" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alfaiz15&theme=tokyonight&hide_border=true&border_radius=12&ring=38BDF8&fire=FF2E63&currStreakLabel=FFFFFF&sideLabels=38BDF8" height="180" alt="GitHub Streak"/>
 </p>
 
-<!-- Optional: Trophy biar tambah mewah -->
+<!-- Trophy yang udah confirmed muncul & mewah -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alfaiz15&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br>
 
+<!-- Profile Views yang tetep jalan -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alfaiz15&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
