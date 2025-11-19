@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey there! I'm Riski Alfaizi 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=38BDF8&width=700&lines=Data+Analyst+%E2%80%A2+Ex-Grab+%26+Kredivo;SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;From+field+ops+%E2%86%92+Data-driven+impact)](https://git.io/typing-svg)
@@ -56,4 +54,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alfaiz15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaiz15&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+<br>
+
+<p align="center">
+  <img src="https://metricard.vercel.app/api/card?username=Alfaiz15&template=cyberpunk&theme=tokyonight&height=340&width=1000" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfaiz15&theme=tokyonight&hide_border=true&border_radius=12&ring=38BDF8&fire=FF2E63&currStreakLabel=FFFFFF" height="180"/>
 </p>
