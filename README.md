@@ -21,44 +21,43 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
-
-<hr>
-
 ### Tech Stack & Tools
 <p align="center">
-  <!-- Baris 1: Tambah HTML, CSS, JS + yang udah ada -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,vba" height="45"/>
+  <!-- Row 1: Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,vba" height="50"/>
   <br><br>
-  <!-- Baris 2: SQL & Database + Analytics -->
-  <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,jupyter,excel,gsheets,ga" height="45"/>
+  <!-- Row 2: Databases & Data Processing -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sql,jupyter,excel,gsheets,googlecloud" height="50"/>
   <br><br>
-  <!-- Baris 3: Viz Tools + Lainnya -->
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,canva,clickup" height="45"/>
+  <!-- Row 3: Data Visualization & Analytics -->
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,looker,ga4" height="50"/>
+  <br><br>
+  <!-- Row 4: Productivity & Others -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,canva,clickup" height="50"/>
 </p>
 
-<!-- METRIC CARD BUAT DATA ANALYST: Wakatime Stats (jam coding minggu ini, top langs, tools - kayak dashboard productivity!) -->
+<!-- METRIC CARD – 100% WORKING & SUPER RELEVAN BUAT DATA ANALYST -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alfaiz15&theme=tokyonight&layout=compact&hide_border=true" height="180" alt="Wakatime Metrics - Data Analyst Productivity"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfaiz15&theme=tokyonight" height="200" alt="Contribution Metrics & Activity Overview"/>
 </p>
 
-
-<hr>
-
-### Experience
-- **Business Development Executive** → Kredivo Group `Jan–Jul 2025`  
-- **Acquisition & Operations Specialist** → Grab Indonesia `2021–2024`  
-- **Election Administrative Officer** → KPU Jambi `2018–2019`  
+<!-- Weekly Productivity Heatmap (kayak BI dashboard – langsung muncul tanpa setup) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfaiz15&theme=tokyo-night&hide_border=true&point=FFFFFF&area=true&area_color=38BDF8" height="280" alt="Contribution Heatmap"/>
+</p>
 
 ### Education
 - **Master of Public Administration** – Esa Unggul University, Jakarta `2021–2024` | GPA 3.67  
 - **Bachelor of Social Science – Public Administration** – IAKSS Jambi `2016–2020` | GPA 3.06  
 
 ### Featured Projects
-- **Price Prediction & Recommender System** → Python • SQL • ML  
-- **Pizza Sales Dashboard** → Excel • Power BI  
-- **IMDB Data Quality Framework** → Excel • Google Sheets  
+- **Full Intensive Bootcamp Data Science** – Kelas.com `2024–2025`  
+- **Price Prediction & Recommender System** → Python • SQL • Machine Learning  
+- **Pizza Sales Interactive Dashboard** → Excel • Power BI  
+- **IMDB Data Quality Framework** → Excel • Google Sheets • Data Cleaning Pipeline  
 
 <br>
+
 
 <!-- Streak Stats ALTERNATIF WORKING (Vercel deploy dari repo official, 100% muncul sekarang) -->
 <p align="center">
