@@ -21,19 +21,14 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
-### Tech Stack & Tools
+
+### 🔥 Tech Stack & Tools
 <p align="center">
-  <!-- Row 1: Programming & Scripting -->
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,vba" height="50"/>
-  <br><br>
-  <!-- Row 2: Databases & Data Processing -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sql,jupyter,excel,gsheets,googlecloud" height="50"/>
-  <br><br>
-  <!-- Row 3: Data Visualization & Analytics -->
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,looker,ga4" height="50"/>
-  <br><br>
-  <!-- Row 4: Productivity & Others -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,canva,clickup" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php" alt="frontend" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,googlecloud" alt="tools" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,notion" alt="editor" />
 </p>
 
 <!-- METRIC CARD – 100% WORKING & SUPER RELEVAN BUAT DATA ANALYST -->
