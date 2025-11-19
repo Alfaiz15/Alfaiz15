@@ -1,7 +1,9 @@
 
 <h1 align="center">Hey there! I'm Riski Alfaizi</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=38BDF8&width=700&lines=Data+Analyst+%E2%80%A2+Ex-Grab+%26+Kredivo;SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;From+field+ops+%E2%86%92+Data-driven+impact)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BFF1E&width=435&lines=Metric-focused+Data+Analyst+proficient+in+Analytical+Programming+and+in-depth+analysis%2C+focused+on+creating+measurable+business+impact;Driven+by+an+enthusiasm+for+data%2C+storytelling%2C+and+web+programming%2C+I+continuously+invest+in+new+skills+for+effective+front-end+visualization." alt="Typing SVG" /></a>
+</p>
 
 <H3 align="center">
   <strong>Analytical Enthusiast </strong><br>
