@@ -1,17 +1,15 @@
+---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alfaiz15/Alfaiz15/main/Img/the moon.jpeg" alt="Cover Header Riski Alfaizi" width="400" height="600"/>
-</p>
-
-<h1 align="center">Hey there! I'm Riski Alfaizi</h1>
+  <img src="https://raw.githubusercontent.com/Alfaiz15/Alfaiz15/main/Img/the moon.jpeg" alt="Cover Header Riski Alfaizi" width="800" height="100"/>
+<br>
+<h1 align="center">💻 Halo! Saya Riski Alfaizi, 
+  <b>Full-Cycle Analyst</b> & <b>Coding Enthusiast</b></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BFF1E&width=435&lines=Metric-focused+Data+Analyst+proficient+in+Analytical+Programming+and+in-depth+analysis%2C+focused+on+creating+measurable+business+impact;Driven+by+an+enthusiasm+for+data%2C+storytelling%2C+and+web+programming%2C+I+continuously+invest+in+new+skills+for+effective+front-end+visualization." alt="Typing SVG" /></a>
 </p>
 
-<H3 align="center">
-  <strong>Analytical Enthusiast </strong><br>
-</H3>
-
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/riski-alfaizi">
@@ -28,6 +26,8 @@
   </a>
 </p>
 
+---
+<br>
 <h2 align="center">Proficiency & Expertise </h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,php,laravel,figma,notion,bootstrap,tailwind" alt="frontend" />
