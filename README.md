@@ -26,12 +26,21 @@
 
 ### Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,html,css,js,vba" height="45"/>
+  <!-- Baris 1: Tambah HTML, CSS, JS + yang udah ada -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,vba" height="45"/>
   <br><br>
+  <!-- Baris 2: SQL & Database + Analytics -->
   <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,jupyter,excel,gsheets,ga" height="45"/>
   <br><br>
+  <!-- Baris 3: Viz Tools + Lainnya -->
   <img src="https://skillicons.dev/icons?i=powerbi,tableau,canva,clickup" height="45"/>
 </p>
+
+<!-- METRIC CARD BUAT DATA ANALYST: Wakatime Stats (jam coding minggu ini, top langs, tools - kayak dashboard productivity!) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alfaiz15&theme=tokyonight&layout=compact&hide_border=true" height="180" alt="Wakatime Metrics - Data Analyst Productivity"/>
+</p>
+
 
 <hr>
 
