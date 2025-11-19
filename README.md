@@ -25,22 +25,24 @@
   </a>
 </p>
 
-<h1 align="center">Tech & Tools </h1>
+<h2 align="center">Proficiency & Expertise </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,php,laravel,figma,notion,bootstrap,tailwind" alt="frontend" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,googlecloud" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,aws,gcp,azure,vscode,windows,mysql,anaconda,coffeescript" alt="tools" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,notion" alt="editor" />
-</p>
-<h3 align="left"> 💡 <strong>Featured Projects</strong></h3>
+  
+---
+<h3 align="Center"> 💡 <strong>Featured Projects</strong></h3>
 
-* **Full Intensive Bootcamp Data Science**: Kelas.com
-* **Price Prediction & Recommender System**: Python • SQL • Machine Learning
-* **Flight Delay Root Cause Analysis End-to-End Data Workflow**: Excel/Sheets • Tableau
-* **Data-Driven Logistics-Warehouse Automation & Analysis**: SQL Focused
-* **Pizza Sales Interactive Dashboard**: Excel • Sheets
-* **IMDB Data Quality Framework**: Excel • Google Sheets • Data Cleaning Pipeline
+| Project | Core Focus | Tech Stack |
+| :--- | :--- | :--- |
+| **Full Intensive Bootcamp Data Science** | Final Project & Bootcamp Portfolio | Data Science, ML/ANN/RNN, Python, SQL |
+| **Price Prediction & Recommender System** | Price Prediction Model & Recommender System | Python • SQL • Machine Learning |
+| **Flight Delay Root Cause Analysis** | End-to-End Data Workflow Analysis | Excel/Sheets • Tableau |
+| **Data-Driven Logistics-Warehouse Automation** | Logistics Data & Warehouse Analysis | SQL Focused |
+| **Pizza Sales Interactive Dashboard** | Sales Dashboard & Seasonal Trend Analysis | Excel • Sheets |
+| **IMDB Data Quality Framework** | Data Cleaning & Data Quality | Excel • Google Sheets • Data Cleaning Pipeline |
 
 ---
 <!-- METRIC CARD – 100% WORKING & SUPER RELEVAN BUAT DATA ANALYST -->
