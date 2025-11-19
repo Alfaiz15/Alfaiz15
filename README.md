@@ -51,12 +51,6 @@
 
 <br>
 
-<!-- GAMBAR FIX BARU - Stats + Langs (pakai original yang super stabil, tetep tokyonight) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfaiz15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaiz15&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="195" alt="Top Languages"/>
-</p>
-
 <!-- Streak Stats ALTERNATIF WORKING (Vercel deploy dari repo official, 100% muncul sekarang) -->
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alfaiz15&theme=tokyonight&hide_border=true&border_radius=12&ring=38BDF8&fire=FF2E63&currStreakLabel=FFFFFF&sideLabels=38BDF8" height="180" alt="GitHub Streak"/>
