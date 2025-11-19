@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey there! I'm Riski Alfaizi</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=38BDF8&width=700&lines=Data+Analyst+%E2%80%A2+Ex-Grab+%26+Kredivo;SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;From+field+ops+%E2%86%92+Data-driven+impact)](https://git.io/typing-svg)
@@ -6,6 +7,7 @@
   <strong>Data Analyst • Operations → Data Transition • Problem Solver</strong><br>
   West Java / Jakarta
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/riski-alfaizi">
@@ -30,7 +32,16 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=vscode,figma,notion" alt="editor" />
 </p>
+<h3 align="left"> 💡 <strong>Featured Projects</strong></h3>
 
+* **Full Intensive Bootcamp Data Science**: Kelas.com
+* **Price Prediction & Recommender System**: Python • SQL • Machine Learning
+* **Flight Delay Root Cause Analysis End-to-End Data Workflow**: Excel/Sheets • Tableau
+* **Data-Driven Logistics-Warehouse Automation & Analysis**: SQL Focused
+* **Pizza Sales Interactive Dashboard**: Excel • Sheets
+* **IMDB Data Quality Framework**: Excel • Google Sheets • Data Cleaning Pipeline
+
+---
 <!-- METRIC CARD – 100% WORKING & SUPER RELEVAN BUAT DATA ANALYST -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfaiz15&theme=tokyonight" height="200" alt="Contribution Metrics & Activity Overview"/>
@@ -41,20 +52,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfaiz15&theme=tokyo-night&hide_border=true&point=FFFFFF&area=true&area_color=38BDF8" height="280" alt="Contribution Heatmap"/>
 </p>
 
-<h1 align="center"> Featured Projects</h1>
-
-- **Full Intensive Bootcamp Data Science** – Kelas.com `2024–2025`  
-- **Price Prediction & Recommender System** → Python • SQL • Machine Learning  
-- **Pizza Sales Interactive Dashboard** → Excel • Power BI  
-- **IMDB Data Quality Framework** → Excel • Google Sheets • Data Cleaning Pipeline  
-
-<br>
-
-
 <!-- Streak Stats ALTERNATIF WORKING (Vercel deploy dari repo official, 100% muncul sekarang) -->
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alfaiz15&theme=tokyonight&hide_border=true&border_radius=12&ring=38BDF8&fire=FF2E63&currStreakLabel=FFFFFF&sideLabels=38BDF8" height="180" alt="GitHub Streak"/>
 </p>
+
+---
+
 
 <!-- Trophy yang udah confirmed muncul & mewah -->
 <p align="center">
