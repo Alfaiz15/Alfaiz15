@@ -41,10 +41,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfaiz15&theme=tokyo-night&hide_border=true&point=FFFFFF&area=true&area_color=38BDF8" height="280" alt="Contribution Heatmap"/>
 </p>
 
-### Education
-- **Master of Public Administration** – Esa Unggul University, Jakarta `2021–2024` | GPA 3.67  
-- **Bachelor of Social Science – Public Administration** – IAKSS Jambi `2016–2020` | GPA 3.06  
-
 ### Featured Projects
 - **Full Intensive Bootcamp Data Science** – Kelas.com `2024–2025`  
 - **Price Prediction & Recommender System** → Python • SQL • Machine Learning  
