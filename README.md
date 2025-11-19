@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alfaiz15/Alfaiz15/main/" alt="Foto Profil Riski Alfaizi" width="150" height="150"/>
+  <img src="https://raw.githubusercontent.com/Alfaiz15/Alfaiz15/main/Img/Progress.jpeg" alt="Cover Header Riski Alfaizi" width="400" height="600"/>
 </p>
+
 <h1 align="center">Hey there! I'm Riski Alfaizi</h1>
 
 <p align="center">
