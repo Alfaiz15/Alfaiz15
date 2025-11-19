@@ -21,8 +21,9 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
+<h3 align="center">Tech Stack & Tools
+</h3>
 
-### 🔥 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,php" alt="frontend" />
   <br/><br/>
