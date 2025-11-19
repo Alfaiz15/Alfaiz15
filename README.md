@@ -21,9 +21,8 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
-<h3 align="center">Tech Stack & Tools
-</h3>
 
+<h1 align="center">Tech & Tools </h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,php" alt="frontend" />
   <br/><br/>
@@ -42,7 +41,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfaiz15&theme=tokyo-night&hide_border=true&point=FFFFFF&area=true&area_color=38BDF8" height="280" alt="Contribution Heatmap"/>
 </p>
 
-### Featured Projects
+<h1 align="center"> Featured Projects</h1>
+
 - **Full Intensive Bootcamp Data Science** – Kelas.com `2024–2025`  
 - **Price Prediction & Recommender System** → Python • SQL • Machine Learning  
 - **Pizza Sales Interactive Dashboard** → Excel • Power BI  
