@@ -65,14 +65,6 @@
 
 ---
 
-
-<!-- Trophy yang udah confirmed muncul & mewah -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alfaiz15&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-<br>
-
 <!-- Profile Views yang tetep jalan -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alfaiz15&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
