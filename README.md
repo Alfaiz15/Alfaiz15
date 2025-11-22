@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alfaiz15/Alfaiz15/main/Img/the moon.jpeg" alt="Cover Header Riski Alfaizi" width="1000" height="100"/>
+  <img src="https://raw.githubusercontent.com/Alfaiz15/Alfaiz15/main/Img/the moon.jpeg" alt="Cover Header Riski Alfaizi" width="900" height="100"/>
 <br>
 <h1 align="center">💻 Hello! I'm Riski Alfaizi, <b>a Full-Cycle Analyst</b> & <b>Coding Enthusiast</b></h1>  
 
@@ -35,19 +35,7 @@
   <img src="https://skillicons.dev/icons?i=git,aws,gcp,azure,vscode,windows,mysql,anaconda,coffeescript" alt="tools" />
   <br/><br/>
   
----
-<h3 align="Center"> 💡 <strong>Featured Projects</strong></h3>
 
-| Project | Core Focus | Tech Stack |
-| :--- | :--- | :--- |
-| **Full Intensive Bootcamp Data Science** | Final Project & Bootcamp Portfolio | Data Science, ML/ANN/RNN, Python, SQL |
-| **Price Prediction & Recommender System** | Price Prediction Model & Recommender System | Python • SQL • Machine Learning |
-| **Flight Delay Root Cause Analysis** | End-to-End Data Workflow Analysis | Excel/Sheets • Tableau |
-| **Data-Driven Logistics-Warehouse Automation** | Logistics Data & Warehouse Analysis | SQL Focused |
-| **Pizza Sales Interactive Dashboard** | Sales Dashboard & Seasonal Trend Analysis | Excel • Sheets |
-| **IMDB Data Quality Framework** | Data Cleaning & Data Quality | Excel • Google Sheets • Data Cleaning Pipeline |
-
----
 <!-- METRIC CARD – 100% WORKING & SUPER RELEVAN BUAT DATA ANALYST -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfaiz15&theme=tokyonight" height="200" alt="Contribution Metrics & Activity Overview"/>
